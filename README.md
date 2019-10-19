@@ -2,7 +2,7 @@
 
 The website is made using HTML, CSS and Bootstrap. It is decently responsive.
 
-### The codepen link of the website is: https://codepen.io/shivamyadav/project/editor/AKaYbM
+### The codepen link of the website is: https://codepen.io/shivamyadav/project/full/AKaYbM
 
 ### Website has following pages
 * Landing Page
